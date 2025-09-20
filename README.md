@@ -1,10 +1,4 @@
 <h1 align="center">👋 Hi, I'm Aravind Yuvraj</h1>
-<h3 align="center">Passionate about transforming ideas into code</h3>
-
-# Hi there, I'm Aravind! 👋
-
-<div align="center">
-  
 ```ascii
      _    ___   _____             _                     
     / \  |_ _| | ____|_ __   __ _(_)_ __   ___  ___ _ __ 
@@ -120,18 +114,6 @@ Innovation:
 
 </details>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true)
-
-</div>
-
 ## 🎓 Learning Journey
 
 ```mermaid
@@ -139,17 +121,16 @@ timeline
     title My AI Journey
     
     2021-2025 : BTech in AI & Data Science
-               : Foundation in ML/DL
-               : Neural Networks
+               : Foundation in DS/ML
+               : DL/Neural Networks
     
     2025       : AI Engineering Specialization
                : LLM Applications
                : RAG Systems
                : AI Agents
     
-    Future     : Advanced AI Research
+    Future     : AI for Education
                : MLOps at Scale
-               : AGI Contributions
 ```
 
 ## 🌟 What Drives Me
@@ -168,7 +149,6 @@ timeline
 
 I'm always excited to discuss:
 - 🤖 **AI/ML Projects** - From concept to deployment
-- 🔬 **Research Collaborations** - Pushing the boundaries of AI
 - 💼 **Opportunities** - Building the future of intelligent systems
 - ☕ **Tech Talks** - Sharing knowledge and learning together
 
@@ -181,12 +161,11 @@ I'm always excited to discuss:
 
 ---
 
-⭐ *If you find my work interesting, consider starring some repositories!*  
 🔄 *Feel free to fork and contribute to open-source projects*  
 🚀 *Let's build something amazing together!*
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AravindYuvraj&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
